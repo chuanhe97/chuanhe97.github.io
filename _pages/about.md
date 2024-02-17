@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Postdoctoral Associate
 
-<!-- # Address. Contacts. Moto. Etc. -->
+# Address. Contacts. Moto. Etc.
 
 profile:
   align: right
