@@ -13,10 +13,10 @@ profile:
   image: chuanhe.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Postdoc in CS, UMN</p>
+    <p>Postdoc in CS UMN</p>
     <p>Keller Hall 6-210</p>
     <p>200 Union Street SE</p>
-    <p>Minneapolis, MN 55455</p>
+    <p>Minneapolis MN 55455</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
