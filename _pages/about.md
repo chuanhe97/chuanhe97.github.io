@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<p>subtitle: Postdoctoral Associate</p>
+subtitle: <p>Postdoctoral Associate</p>
 <p><a href='https://cse.umn.edu/cs'>Department of Computer Science and Engineering</a>  </p>
 <p><a href='https://twin-cities.umn.edu/'>University of Minnesota</a></p>
 
