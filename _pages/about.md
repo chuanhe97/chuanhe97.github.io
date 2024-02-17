@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Associate
+subtitle: /
 
 # Address. Contacts. Moto. Etc.
 
@@ -22,9 +22,8 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
+Postdoctoral Associate
 <a href='https://cse.umn.edu/cs'>Department of Computer Science and Engineering</a>
-
 <a href='https://twin-cities.umn.edu/'>University of Minnesota</a>
 
 
@@ -32,8 +31,3 @@ Welcome to my homepage!
 
 I am currently a postdoctoral associate in the Department of Computer Science and Engineering at University of Minnesota working with Professor Ju Sun. Before that, I earned my PhD from the Department of Industrial and Systems Engineering at the same university under the supervision of Professor Zhaosong Lu. I received my bachelor's degree from the School of Mathematical Sciences at Xiamen University, with thesis advised by Professor Wen Huang. I am interested in the dynamic intersections of data science and optimization. My current research centers on building theory for structured optimization in machine learning and creating algorithm packages for data-driven optimization problems.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.>
