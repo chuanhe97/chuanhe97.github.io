@@ -15,7 +15,6 @@ profile:
   more_info: >
     <p>Postdoc in CS</p>
     <p>University of Minnesota</p>
-    <p>200 Union Street SE</p>
     <p>Minneapolis, MN 55455</p>
 
 news: false # includes a list of news items
