@@ -22,8 +22,8 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Postdoctoral Associate
-<a href='https://cse.umn.edu/cs'>Department of Computer Science and Engineering</a>
+Postdoctoral Associate<br>
+<a href='https://cse.umn.edu/cs'>Department of Computer Science and Engineering</a><br>
 <a href='https://twin-cities.umn.edu/'>University of Minnesota</a>
 
 
