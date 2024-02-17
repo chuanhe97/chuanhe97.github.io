@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
+subtitle: Postdoc in CS, <a href='https://twin-cities.umn.edu/'>University of Minnesota</a>
 
 # Address. Contacts. Moto. Etc.
 
@@ -22,11 +22,11 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Postdoctoral Associate<be>, <a href='https://cse.umn.edu/cs'>Department of Computer Science and Engineering</a><br>
-<a href='https://twin-cities.umn.edu/'>University of Minnesota</a>
 
 
-Welcome to my homepage!
+I am currently a postdoctoral associate in the <a href='https://cse.umn.edu/cs'>Department of Computer Science and Engineering</a> at University of Minnesota, working with Professor <a href='https://sunju.org/'>Ju Sun</a>. 
 
-I am currently a postdoctoral associate in the Department of Computer Science and Engineering at University of Minnesota working with Professor Ju Sun. Before that, I earned my PhD from the Department of Industrial and Systems Engineering at the same university under the supervision of Professor Zhaosong Lu. I received my bachelor's degree from the School of Mathematical Sciences at Xiamen University, with thesis advised by Professor Wen Huang. I am interested in the dynamic intersections of data science and optimization. My current research centers on building theory for structured optimization in machine learning and creating algorithm packages for data-driven optimization problems.
+I earned my PhD from the <a href="https://cse.umn.edu/isye">Department of Industrial and Systems Engineering</a> at University of Minnesota under the supervision of <a target="_blank" href="https://zhaosong-lu.github.io/index.html">Professor Zhaosong Lu</a>. I received my bachelor's degree from the <a target="_blank" href="https://math.xmu.edu.cn/en/">School of Mathematical Sciences</a> at Xiamen University, with thesis advised by <a target="_blank" href="https://www.math.fsu.edu/~whuang2/">Professor Wen Huang</a>. 
+
+I am interested in the dynamic intersections of data science and optimization. My current research centers on building theory for structured optimization in machine learning and creating algorithm packages for data-driven optimization problems.
 
