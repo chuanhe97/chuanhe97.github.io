@@ -4,6 +4,10 @@ title: about
 permalink: /
 subtitle: Postdoctoral Associate
 
+<a href='https://cse.umn.edu/cs'>Department of Computer Science and Engineering</a>
+
+<a href='https://twin-cities.umn.edu/'>University of Minnesota</a>
+
 # Address. Contacts. Moto. Etc.
 
 profile:
