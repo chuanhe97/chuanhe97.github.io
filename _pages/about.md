@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc in CS, <a href='https://twin-cities.umn.edu/'>University of Minnesota</a>
+subtitle:
 
 # Address. Contacts. Moto. Etc.
 
@@ -13,6 +13,7 @@ profile:
   image: chuanhe.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Postdoc in CS, UMN</p>
     <p>Keller Hall 6-210</p>
     <p>200 Union Street SE</p>
     <p>Minneapolis, MN 55455</p>
