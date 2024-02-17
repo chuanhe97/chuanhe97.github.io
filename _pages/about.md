@@ -10,7 +10,7 @@ subtitle:
 
 profile:
   align: right
-  image: chuanhe.jpg
+  image: chuanheoffice.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Postdoc in CS</p>
