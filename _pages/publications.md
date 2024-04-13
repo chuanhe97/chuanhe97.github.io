@@ -16,7 +16,7 @@ nav_order: 2
 
 ### publications ###
 
-<!-- _pages/publications.md -->
+<!-- _pages/publications.md  -->
 <div class="publications">
 
   {% bibliography --group_by none --query @*[preprint=false]* %}
