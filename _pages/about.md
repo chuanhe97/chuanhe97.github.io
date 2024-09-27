@@ -14,8 +14,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
-    <p>Math Dept., LiU</p>
-    <p>Linköping, Sweden</p>
+    <p>Department of Mathematics</p>
+    <p>Linköping University</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
