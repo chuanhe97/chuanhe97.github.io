@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+pip install xyz --break-system-packages
+
 # Run this script to deploy the app to Github Pages
 
 # Parse cmd arguments
